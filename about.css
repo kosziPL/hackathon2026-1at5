@@ -1,0 +1,31 @@
+.about {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: center;
+}
+
+.about-box {
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: #080b3f;
+    border-width: 5px;
+    border-style: solid;
+    width: 60%;
+}
+
+.about-box p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.about-box img {
+    width: 400px;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+}
