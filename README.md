@@ -1,6 +1,6 @@
 # 🛡️ HelpZone - II JDB Hackathon 2026
 
-> **Disclaimer:** Projekt o charakterze edukacyjnym (MVP). Stworzony przez zespół 1AT5 w ramach nauki programowania. 
+> **Disclaimer:** Projekt o charakterze edukacyjnym (MVP). Stworzony przez zespół "TrudnoGang" z kl. 1AT5 w ramach nauki programowania. 
 > Aplikacja demonstruje koncepcję (Proof of Concept) i nie jest przeznaczona do użytku produkcyjnego.
 
 ---
