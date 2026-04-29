@@ -7,7 +7,7 @@ if(isset($_SESSION["login"])) {
 } else {
     $login = "Gościu";
 }
-$conn = mysqli_connect("s135.cyber-folks.pl", "rotsu81_mleczko", "wB7vz)zTw4d--HlY", "rotsu81_hackathon");
+$conn = mysqli_connect("localhost", "root", "", "database_name");
 ?>
 <!DOCTYPE html>
 <html lang="pl">

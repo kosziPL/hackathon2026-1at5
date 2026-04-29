@@ -2,10 +2,10 @@
 session_start();
 
 $conn = mysqli_connect(
-    "s135.cyber-folks.pl",
-    "rotsu81_mleczko",
-    "wB7vz)zTw4d--HlY",
-    "rotsu81_hackathon"
+    "localhost",
+    "root",
+    "",
+    "database_name"
 );
 
 
